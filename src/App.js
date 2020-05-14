@@ -4,8 +4,8 @@ import "./styles.css";
 export default function App() {
   return (
     <div className="App">
-      <h1>Hello CodeSandbox</h1>
-      <h2>Start editing to see some magic happen!</h2>
+      <h1>This is a basic app to understand the procedure of @reach/router</h1>
+      <a href="https://github.com/reach/router#readme">@reach/router</a>
     </div>
   );
 }
